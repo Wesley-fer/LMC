@@ -1,2 +1,2 @@
-# LMC
-Lógica e matematica computacional
+# MD
+Modelagem De Ddaos
